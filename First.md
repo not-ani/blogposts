@@ -6,4 +6,4 @@ Now, as sophomore year continues, conversations about college and career paths h
 
 I love programming, I'm good at it(relatively), and I want to pursue it full time. Yet, my dad raises a concern that's hard to dismiss: by the time I graduate from college( around 2030) , advances in AI could potentially render my chosen profession obsolete.
 
-So here I am, caught in a quandary that's undoubtedly shared by many of my peers. Do I follow a well-trodden path in medicine, or do I gamble on a future in tech, a future that's as exciting as  it is uncertain? I feel if this was a few decades ago I would without a doubt choose tech.
+So here I am, caught in a quandary that's undoubtedly shared by many of my peers. Do I follow a well-trodden path in medicine, or do I gamble on a future in tech? I feel if this was a few decades ago I would without a doubt choose tech.
